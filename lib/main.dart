@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:quiz_app/start_screen.dart';
 
 void main() {
-  // form branch 2 
+  // form branch 1
   runApp(const MaterialApp(
     home: Scaffold(
       body: StartScreen(),
